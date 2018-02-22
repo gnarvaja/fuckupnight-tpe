@@ -1,0 +1,23 @@
+body {
+  background: #2b2b2b;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  color: #00AFE6;
+}
+
+.left-col {
+  left:-8.33%;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+.right-col {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  z-index:-10;
+  width:50%;
+}
+
